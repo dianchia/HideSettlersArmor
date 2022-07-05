@@ -18,8 +18,8 @@ Bugs can be reported to [here](https://github.com/dianchia/HideSettlersArmor/iss
 
 ## Collection
 Below are a few mod written by me
-- [Increased Stack Size](https://github.com/dianchia/IncreasedStackSize)
-- [Hide Settlers Armor](https://github.com/dianchia/HideSettlersArmor)
-- [Faster Path](https://github.com/dianchia/FasterPath)
-- [Vanilla Path +](https://github.com/dianchia/VanillaPathPlus)
 - [Defense Tower](https://github.com/dianchia/DefenseTower)
+- [Faster Path](https://github.com/dianchia/FasterPath)
+- [Hide Settlers Armor](https://github.com/dianchia/HideSettlersArmor)
+- [Increased Stack Size](https://github.com/dianchia/IncreasedStackSize)
+- [Vanilla Path +](https://github.com/dianchia/VanillaPathPlus)
