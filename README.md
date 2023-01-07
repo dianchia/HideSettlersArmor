@@ -1,6 +1,6 @@
 # Mod Information
-- Mod version: 0.1.3
-- Game version: 0.21.25
+- Mod version: 0.1.4
+- Game version: 0.21.27
 
 # Hide Settlers Armor
 
@@ -18,6 +18,7 @@ This mod is only needed on the client side.
 - v0.1.1 - Only armor in armor slot will be hidden. Armor in cosmetic slot will be shown.
 - v0.1.2 - Updated to game version 0.21.24
 - v0.1.3 - Updated to game version 0.21.25
+- v0.1.4 - Updated to game version 0.21.27
 
 ## GitHub
 Bugs can be reported to [here](https://github.com/dianchia/HideSettlersArmor/issues)
