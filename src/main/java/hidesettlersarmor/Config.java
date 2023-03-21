@@ -28,8 +28,8 @@ public class Config {
         newState = state == 1 ? newState | (1 << slot) : newState & ~(1 << slot);
         idToState.put(mobId, newState);
         saveConfig();
-        GameLog.debug.printf("Setting display state for mob %d: Slot %d -> State %d%n", mobId, slot, state);
-        GameLog.debug.printf("New State for mob %d : %d%n", mobId, newState);
+//        GameLog.debug.printf("Setting display state for mob %d: Slot %d -> State %d%n", mobId, slot, state);
+//        GameLog.debug.printf("New State for mob %d : %d%n", mobId, newState);
     }
 
     public boolean getArmorSlotDisplayState(int uniqueId, int slot){

@@ -9,7 +9,8 @@ import necesse.gfx.forms.presets.containerComponent.mob.ShopEquipmentForm;
 import necesse.inventory.container.Container;
 import net.bytebuddy.asm.Advice;
 
-@ModConstructorPatch(target = EquipmentForm.class, arguments = {Client.class, Container.class, String.class, int.class, int.class, int.class, int.class, int.class, int.class, int.class, FormEventListener.class}) // No arguments
+@ModConstructorPatch(target = EquipmentForm.class, arguments = {Client.class, Container.class, String.class, int.class, int.class, int.class, int.class, int.class, int.class, int.class, FormEventListener.class})
+// No arguments
 public class EquipmentFormConstructorPatch {
 //    @Advice.OnMethodExit
     static void OnMethodExit(@Advice.This EquipmentForm form) {
