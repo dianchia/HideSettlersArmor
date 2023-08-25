@@ -1,6 +1,6 @@
 # Mod Information
-- Mod version: 0.1.5
-- Game version: 0.21.29
+- Mod version: 0.1.6
+- Game version: 0.22.0
 
 # Hide Settlers Armor
 
@@ -20,6 +20,7 @@ This mod is only needed on the client side.
 - v0.1.3 - Updated to game version 0.21.25
 - v0.1.4 - Updated to game version 0.21.27
 - v0.1.5 - Now you can toggle showing armor for each slot separately at the settler's equipment page! Also updated to game version 0.21.29
+- v0.1.6 - Updated to game version 0.22.0
 
 ## GitHub
 Bugs can be reported to [here](https://github.com/dianchia/HideSettlersArmor/issues)
